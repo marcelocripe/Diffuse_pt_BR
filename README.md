@@ -7,9 +7,10 @@ https://github.com/MightyCreak/diffuse/ e https://github.com/lxde/lxappearance/b
 Traduções revisadas por marcelocripe:
 
 https://github.com/marcelocripe/Diffuse_pt_BR/blob/main/diffuse_pt_BR.po
+https://github.com/marcelocripe/Diffuse_pt_BR/blob/main/io.github.mightycreak.Diffuse.desktop
 
 
-Para utilizar o arquivo "diffuse_pt_BR.po" e o "diffuse.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
+Para utilizar o arquivo "diffuse_pt_BR.po" e o "io.github.mightycreak.Diffuse.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
 
 "diffuse_pt_BR.po":
 
@@ -23,11 +24,11 @@ Comando para copiar o arquivo da tradução com a extensão ".mo" para a pasta d
 $ sudo cp diffuse.mo /usr/share/locale/pt_BR/LC_MESSAGES
 
 
-"diffuse.desktop":
+"io.github.mightycreak.Diffuse.desktop":
 
 Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/applications.
 
-$ sudo cp diffuse.desktop /usr/share/applications
+$ sudo cp io.github.mightycreak.Diffuse.desktop /usr/share/applications
 
 Comando para escrever globalmente todas as entradas dos menus do antiX:
 
