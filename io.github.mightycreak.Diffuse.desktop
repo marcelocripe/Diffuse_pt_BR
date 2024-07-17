@@ -1,0 +1,62 @@
+[Desktop Entry]
+Categories=Development;GTK;
+Exec=diffuse -s %F
+Icon=io.github.mightycreak.Diffuse
+MimeType=text/plain;text/x-csrc;text/x-chdr;
+StartupNotify=true
+Terminal=false
+Type=Application
+
+Name=Diffuse
+Name[ca]=Difós
+Name[de]=Dateivergleich („Diffuse”)
+Name[es]=Diffuse
+Name[fi]=Diffuse
+Name[fr]=Diffuse
+Name[fr_BE]=Diffuse
+Name[pt]=Diffuse
+Name[pt_BR]=Comparador de Arquivos Diffuse
+Name[ru]=Сравнение текста (Diffuse)
+Name[sv]=Diffuse
+
+GenericName=Diff Viewer
+GenericName[ca]=Visualitzador de diferències
+GenericName[de]=Diff-Betrachter
+GenericName[fi]=Erojen vertailija
+GenericName[fr]=Visionneuse de différences
+GenericName[fr_BE]=Visionneuse de différences
+GenericName[pt]=Visualizador de diferenças
+GenericName[pt_BR]=Visualizador de diferenças em arquivos
+GenericName[ru]=Просмотр различий
+GenericName[sv]=Diffvisare
+
+Comment=Graphical tool for merging and comparing text files
+Comment[ca]=Eina gràfica per combinar i comparar fitxers de text
+Comment[cs]=Grafický nástroj pro slučování a porovnávání textových souborů
+Comment[de]=Graphisches Werkzeug zum Vergleichen und Zusammenführen von Textdateien
+Comment[es]=Herramienta gráfica para fusionar y comparar archivos de texto
+Comment[fi]=Työkalu tekstitiedostojen yhdistämiseen ja vertailuun
+Comment[fr]=Outil graphique pour fusionner et comparer des fichiers texte
+Comment[fr_BE]=Outil graphique pour fusionner et comparer des fichiers texte
+Comment[it]=Strumento grafico per l'unione e il confronto di file
+Comment[ja]=テキストファイルをマージして比較するためのグラフィックツール
+Comment[ko]=텍스트 파일을 병합하고 비교하기위한 도구
+Comment[pl]=Graficzne narzędzie do łączenia i porównywania plików tekstowych
+Comment[pt]=Ferramenta gráfica para unir e comparar ficheiros de texto
+Comment[pt_BR]=O ‘Diffuse’ é uma ferramenta por interface gráfica que permite comparar e mesclar os arquivos de texto, comparar uma quantidade arbitrária de arquivos lado a lado e oferece aos usuários a capacidade de ajustar manualmente a correspondência das linha e editar os arquivos diretamente, possibilita recuperar as revisões feitas com as ferramentas ‘Bazaar’, ‘CVS’, ‘Darcs’, ‘Git’, ‘Mercurial’, ‘Monotone’, ‘RCS’, ‘Subversion’ e ‘SVK’
+Comment[ru]=Это графический инструмент для объединения и сравнения текстовых файлов
+Comment[sv]=Grafiskt verktyg för förening och jämförelse av textfiler
+Comment[th]=เครื่องมือแบบกราฟิกสำหรับเปรียบเทียบและผสานแฟ้มข้อความ
+Comment[zh_CN]=图形化的比较和合并文本文件的工具
+Comment[zh_TW]=比較與合併文字檔案的圖形化工具
+
+Keywords=viewer;diff;editor;text;
+Keywords[ca]=visualitzador;diff;editor;text;
+Keywords[de]=Unterschied;Betrachter;bearbeiten;mergen;merge;viewer;diff;editor;text;
+Keywords[fi]=viewer;diff;editor;text;
+Keywords[fr]=viewer;diff;editor;text;visionneuse;éditeur;texte;fusionner;comparer;fichiers;
+Keywords[fr_BE]=viewer;diff;editor;text;visionneuse;éditeur;texte;fusionner;comparer;fichiers;
+Keywords[pt]=visualizador;diff;editor;texto;
+Keywords[pt_BR]=visualizar;visualizador;comparar;comparador;comparação;diferença;diferenciar;diferenciação;mesclar;mesclador;mesclagem;juntar;unir;arquivos;comparar arquivos;diferenciar arquivos;
+Keywords[ru]=просмотрщик;различия;редактор;текст;viewer;diff;editor;text;
+Keywords[sv]=visare;diff;redigerare;text;
